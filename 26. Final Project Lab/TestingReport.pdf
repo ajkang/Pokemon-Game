@@ -1,0 +1,15 @@
+Kevin Koh (APCS Partner)
+Feedback:
+I thought that  your project had great graphics which made the game very fun. I also liked how your menu was very detailed. Also, the start screen was very cool. However, I think you could add audio, which is one of the requirements, and improve on your collision detection. Also, you could maybe work on the second quest.
+
+
+Feedback Implemented:
+I added audio to the game for collecting items, interacting with characters, and completing a quest, which made it more fun to play. I also fixed the collision detection that is in the 2nd quest, since the dialogue, player and item collision wasn't working.
+
+
+Stephen G. (Classmate)
+Feedback:
+It would be cool to have the last quest ready. I like the design of the game, but I would like some sound effects since it seems a bit bland. I hope you could do something cool for the last quest. The 2nd level doesn't work very well, so it would be nice to have it work. I hope this turns out great, since it seems like it's so close to being functional and nice.
+
+Feedback Implemented:
+I added background music that would help set the mood for the game. I also was able to fix the collisions with the players in the 2nd level, so they now work. Also, I added a final battle scene, which make the game a bit more interesting compared to the rest of the game/1 and 2 quest. 
